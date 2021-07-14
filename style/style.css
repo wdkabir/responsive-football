@@ -28,7 +28,7 @@
      display: grid;
      grid-template-columns: repeat(2, 1fr);
      margin: 80px 200px;
-     grid-column-gap: 40px;
+     
  }
  .section-title{
      font-size: 64px;
